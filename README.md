@@ -1,2 +1,2 @@
-# ci_repo
-ci_repo
+# ci-corehard
+CI/CD workshop at Corehard 2018
